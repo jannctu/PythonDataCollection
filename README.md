@@ -9,6 +9,8 @@ Simply build a web scraper to collect data from the web pages, and store it in a
 - Collecting image from Google Image.
 - Collecting Video from Youtube. 
 - Collecting data from Reddit. 
+- Collecting data from [IMDB](https://www.imdb.com/chart/top)
+- Collecting data from YTS
 
 ## Dependencies
 
