@@ -5,7 +5,10 @@ Simply build a web scraper to collect data from the web pages, and store it in a
 
 ## Demo
 - Collecting job opportunity data from 104.com.tw.
-- Collection image from Instagram profile.  
+- Collecting image from Instagram profile.
+- Collecting image from Google Image.
+- Collecting Video from Youtube. 
+- Collecting data from Reddit. 
 
 ## Dependencies
 
